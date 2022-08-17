@@ -1,5 +1,5 @@
 <div align=center>
-<img alt="Jia Ji" src="./assets/avatar.png" width=100 />
+<img alt="Jia Ji" src="/assets/avatar.png" width=100 />
 
 # Hi, this is Jia Ji :wave:
 
