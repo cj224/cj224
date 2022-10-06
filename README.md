@@ -7,6 +7,7 @@
 ## Projects :computer:
 
 [![Config Router](https://github-readme-stats.vercel.app/api/pin/?username=cj224&repo=student-hostel-management-system)](https://github.com/cj224/student-hostel-management-system)
+[![Config Router](https://github-readme-stats.vercel.app/api/pin/?username=cj224&repo=epidemic-surveillance)](https://github.com/cj224/epidemic-surveillance)
 
 ## Analysis :point_down:
 
