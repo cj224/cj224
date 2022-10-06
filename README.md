@@ -4,11 +4,9 @@
 
 # Hi, this is Jia Ji :wave:
 
-## Hey 👋, This is Ruan
-
-[![Mail Badge](https://img.shields.io/badge/-11812109@mail.sustech.edu.cn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:11812109@mail.sustech.edu.cn)](mailto:11812109@mail.sustech.edu.cn) [![juejin Badge](https://img.shields.io/badge/juejin-%E7%A8%8B%E5%98%89%E5%90%89-green/)](https://juejin.cn/user/1165925923947176)
+ [![juejin Badge](https://img.shields.io/badge/juejin-%E7%A8%8B%E5%98%89%E5%90%89-green/)](https://juejin.cn/user/1165925923947176)
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=ryyyc alt=ryyyc /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=cj224 alt=cj224 /> </p>
 
 <a href="https://github.com/ryyyc">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ryyyc&show_icons=true&include_all_commits=true" />
