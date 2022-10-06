@@ -9,7 +9,7 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=cj224 alt=cj224 /> </p>
 
 <a href="https://github.com/cj224">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cj224&show_icons=true&include_all_commits=true" />
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cj224&show_icons=true&include_all_commits=true&theme=dark" />
 </a>
 <a href="https://github.com/cj224">
   <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cj224&layout=compact" />
